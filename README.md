@@ -122,7 +122,7 @@ The game runs entirely in the terminal and will guide the player through charact
 
 8. Scoring is calculated when end conditions are met
 
-9.Game can be saved or loaded at any time
+9. Game can be saved or loaded at any time
 
 **Future Improvements**
 
